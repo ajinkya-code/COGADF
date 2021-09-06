@@ -1,0 +1,9 @@
+{
+	"name": "ajinkyaADF",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "84e6e77a-e6ad-4406-8575-ba0251106092",
+		"tenantId": "72a29ac2-698f-4f52-9c2e-f28866aa25da"
+	}
+}
